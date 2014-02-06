@@ -11,21 +11,20 @@ If you commit something to your master and then your pull request is rejected (f
 
 So my workflow is something like this:
 
-+ fork this repo to your own git account
-
-$ git clone <your own fork of this repo>
-$ git checkout -b newfeature
-$ git status (it will see that you're on the `newfeature` branch)
-< edit files>
-$ git add file1 file2
-$ git commit -m 'Made this cool feature'
-$ git push origin newfeature
-< go to github.com and send a Pull Request (PR) >
-< its reviewed and accepted into master>
-$ git checkout master (switching back to YOUR master)
-$ git fetch upstream (upstream's master has new stuff, including your newfeature changes)
-$ git merge upstream/master (now your master has your new code)
-$ git push origin master (push your master back out to github)
++ Fork this repo 
++ $ git clone your own fork of this repo
++ $ git checkout -b newfeature
++ $ git status (it will see that you're on the `newfeature` branch)
++ < edit files>
++ $ git add file1 file2
++ $ git commit -m 'Made this cool feature'
++ $ git push origin newfeature
++ < go to github.com and send a Pull Request (PR) >
++ < its reviewed and accepted into master>
++ $ git checkout master (switching back to YOUR master)
++ $ git fetch upstream (upstream's master has new stuff, including your newfeature changes)
++ $ git merge upstream/master (now your master has your new code)
++ $ git push origin master (push your master back out to github)
 
 Rinse, repeat.
 
