@@ -23,3 +23,4 @@
 | Openstack Heat                                    | Adnan     | 45'       | ***   |
 | How to use Tor effectively                        | (Matteo)  | 30'       | *     |
 | Pick a project and discuss it, to learn           |           | 1h        | *     |
+| A quick and dirty introduction to Salt            | James     | 15-30'    |       |
