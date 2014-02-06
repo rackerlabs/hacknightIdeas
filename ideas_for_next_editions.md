@@ -19,6 +19,6 @@
 | Cloud Autoscaling                                 | Adnan     | 45'       |*      |
 | Cloud Queues                                      | Adnan     | 30'       |       |
 | Cloud Init                                        |           |           | *     |
-| Openstack Heat                                    | Adnan     | 45'       | **    |
+| Openstack Heat                                    | Adnan     | 45'       | ***   |
 | How to use Tor effectively                        | (Matteo)  | 30'       | *     |
 | Pick a project and discuss it, to learn           |           | 1h        | *     |
