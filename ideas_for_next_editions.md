@@ -28,3 +28,4 @@
 | Vagrant + Chef-solo FTW                           | Marc      | 30'       |       |
 | Introduction to Puppet hands on                   | Marc      | 1h        |       |
 | Magento: Optimised LAMP and cloud architecture    | Don + Will| 1h        |       |
+| ionCube - Security with PHP (partner/client guest) presenter | (Christian)  | 30'       |       |
