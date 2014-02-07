@@ -17,13 +17,14 @@
 | Openstack on Windows                              |           |           |       |
 | Cloud Files (not Swift) FAQ                       | Daniele   | 30'       |       |
 | Openstack Tempest                                 | Adnan     | 30'       |       |
-| Cloud Autoscaling                                 | Adnan     | 45'       |*      |
-| Cloud Queues                                      | Adnan     | 30'       |       |
+| Cloud Autoscaling                                 | Adnan     | 45'       |**     |
+| Cloud Queues                                      | Adnan     | 30'       | *     |
 | Cloud Init                                        | Marc      | 30'       | *     |
-| Openstack Heat                                    | Adnan     | 45'       | ***   |
-| How to use Tor effectively                        | (Matteo)  | 30'       | *     |
+| Openstack Heat                                    | Adnan     | 45'       | ****  |
+| How to use Tor effectively                        | (Matteo)  | 30'       | **    |
 | Pick a project and discuss it, to learn           |           | 1h        | *     |
 | A quick and dirty introduction to Salt            | James     | 15-30'    |       |
 | Predictive autoscaling - Scryer and AI            | Marc      | 30'       |       |
 | Vagrant + Chef-solo FTW                           | Marc      | 30'       |       |
 | Introduction to Puppet hands on                   | Marc      | 1h        |       |
+| Magento: Optimised LAMP and cloud architecture    | Don + Will| 1h        |       |
