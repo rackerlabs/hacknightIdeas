@@ -22,3 +22,4 @@
 | Openstack Heat                                    | Adnan     | 45'       | **    |
 | How to use Tor effectively                        | (Matteo)  | 30'       | *     |
 | Pick a project and discuss it, to learn           |           | 1h        | *     |
+| ionCube - Security with PHP (partner/client guest) presenter | (Christian)  | 30'       |       |
