@@ -13,7 +13,7 @@
 | Python decorators                                 | Daniele   | 30'       |       |
 | Python gotchas                                    | Daniele   | 30'-1h    |       |
 | Awk, the brain grinder                            | Marc      | 30'       |**     |
-| Waldo "Computers should work, people should think"| Gus       | 30'       |*      |
+| Waldo - Configuration Discovery                   | Gus       | 30'       |*      |
 | Openstack on Windows                              |           |           |       |
 | Cloud Files (not Swift) FAQ                       | Daniele   | 30'       |       |
 | Openstack Tempest                                 | Adnan     | 30'       |       |
