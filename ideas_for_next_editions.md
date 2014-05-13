@@ -30,5 +30,5 @@
 | Introduction to Puppet hands on                   | Marc      | 1h        |       |
 | Magento: Optimised LAMP and cloud architecture    | Don + Will| 1h        |       |
 | ionCube - Security with PHP (partner/client guest) presenter | (Christian)  | 30'       |       |
-| Docker - actually using it. Why doker is changing cloud |Looking for | 1h        |       |
+| Docker - actually using it. Why docker is changing cloud |Looking for | 1h        |       |
  
