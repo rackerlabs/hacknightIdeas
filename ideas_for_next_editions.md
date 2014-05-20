@@ -13,22 +13,23 @@
 | Python descriptors                                | Daniele   | 30'-1h    |       |
 | Python decorators                                 | Daniele   | 30'       |       |
 | Python gotchas                                    | Daniele   | 30'-1h    |       |
-| Awk, the brain grinder                            | Marc      | 30'       |**     |
+| Awk, the brain grinder                            | Marc      | 30'       |***    |
 | Waldo - Configuration Discovery                   | Gus       | 30'       |*      |
 | Openstack on Windows                              |           |           |       |
 | Cloud Files (not Swift) FAQ                       | Daniele   | 30'       |       |
 | Openstack Tempest                                 | Adnan     | 30'       |       |
-| Cloud Autoscaling                                 | Adnan     | 45'       |**     |
+| Cloud Autoscaling                                 | Adnan     | 45'       |***    |
 | Cloud Queues                                      | Adnan     | 30'       |*      |
 | Cloud Init                                        | Marc      | 30'       |**     |
-| Openstack Heat                                    | Adnan     | 45'       |****   |
-| How to use Tor effectively                        | (Matteo)  | 30'       |**     |
+| Openstack Heat                                    | Adnan     | 45'       |*****  |
+| How to use Tor effectively                        | (Matteo)  | 30'       |***    |
 | Pick a project and discuss it, to learn           |           | 1h        |*      |
 | A quick and dirty introduction to Salt            | James     | 15-30'    |       |
 | Predictive autoscaling - Scryer and AI            | Marc      | 30'       |       |
 | Vagrant + Chef-solo FTW                           | Marc      | 30'       |       |
 | Introduction to Puppet hands on                   | Marc      | 1h        |       |
 | Magento: Optimised LAMP and cloud architecture    | Don + Will| 1h        |       |
-| ionCube - Security with PHP (partner/client guest) presenter | (Christian)  | 30'       |       |
-| Docker - actually using it. Why docker is changing cloud |Looking for | 1h        |       |
+| ionCube - Security with PHP (partner/client guest) presenter | (Christian)  | 30'       |       |	|
+| Docker - actually using it. Why docker is changing cloud |Looking for | 1h        |       |*		|
+| How to build a Hackintosh			    | Roberto   | 30'	    |	    |
  
